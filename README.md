@@ -45,7 +45,7 @@ I am an aspiring Data professional passionate about analytics and problem-solvin
 - 🤔 I’m looking for help with **improving my real-world analytics and data science skills**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI, and data analysis**
 - 📫 How to reach me: **https://www.linkedin.com/in/mya-thuzar-lwin-7345b139/**
-- ⚡ Fun fact: **I’m building my skills step by step through practical projects**
+- ⚡ Fun fact: **watch movies, play games, explore nature**
 
 <h2 align="center">My Stats :</h2>
 
