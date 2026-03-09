@@ -48,3 +48,21 @@ I am an aspiring Data professional passionate about analytics and problem-solvin
 - ⚡ Fun fact: **I’m building my skills step by step through practical projects**
 
 ---
+---
+
+<h2 align="center">My Stats :</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mya2328&theme=dark&border_radius=10" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mya2328&show_icons=true&theme=tokyonight&border_radius=10" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mya2328&layout=compact&theme=tokyonight&border_radius=10" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mya2328&theme=tokyonight&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
