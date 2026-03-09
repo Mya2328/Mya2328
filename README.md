@@ -34,7 +34,6 @@
 <p align="center">
   <img src="./assets/anime.gif" width="420" alt="main gif" />
 </p>
----
 <h2 align="center">About Me</h2>
 
 I am an aspiring Data professional passionate about analytics and problem-solving.
