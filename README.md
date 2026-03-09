@@ -44,7 +44,7 @@ I am an aspiring Data professional passionate about analytics and problem-solvin
 - 🤝 I’m looking to collaborate on **data analysis projects, dashboards, and analytics case studies**
 - 🤔 I’m looking for help with **improving my real-world analytics and data science skills**
 - 💬 Ask me about **Python, SQL, Tableau, Power BI, and data analysis**
-- 📫 How to reach me: **add your LinkedIn or email here**
+- 📫 How to reach me: **https://www.linkedin.com/in/mya-thuzar-lwin-7345b139/**
 - ⚡ Fun fact: **I’m building my skills step by step through practical projects**
 
 <h2 align="center">My Stats :</h2>
