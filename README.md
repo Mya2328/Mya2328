@@ -22,7 +22,7 @@
 <h1 align="center">Mya 👋</h1>
 
 <br>
-
+I am an aspiring Data professional passionate about analytics and problem-solving.
 <p align="center">
   <img src="./assets/anime.gif" width="420" alt="main gif" />
 </p>
