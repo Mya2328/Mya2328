@@ -1,6 +1,6 @@
 ## Hi there, It is Mya👋
 <p align="center">
-  <img src="./assets/logo.png" width="110" alt="logo" />
+  <img src="me.png" width="110" alt="logo" />
 </p>
 
 <p align="center">
