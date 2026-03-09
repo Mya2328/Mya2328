@@ -1,4 +1,4 @@
-## Hi there, It is Mya👋
+## Hi there👋
 <p align="center">
   <img src="me.png" width="110" alt="logo" />
 </p>
@@ -29,14 +29,16 @@
 <!--
 **Mya2328/Mya2328** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Mya 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+
+- 🔭 I’m currently working on practical projects for **Data Analyst** and **Business Analyst** roles  
+- 🌱 I’m currently learning **Python, SQL, Tableau, and Power BI** for data analysis  
+- 👯 I’m looking to collaborate on **data projects, dashboards, and analytics case studies**  
+- 🤔 I’m looking for help with **improving my problem-solving and real-world analytics skills**  
+- 💬 Ask me about **data analysis, Python, SQL, Tableau, and Power BI**  
+- 📫 How to reach me: **Add your email or LinkedIn here**  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun fact: **I’m working toward a career in Data Science by building hands-on analytics projects**
 -->
