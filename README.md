@@ -21,8 +21,6 @@
 
 <br>
 
-<h1 align="center">Mya 👋</h1>
-
 <br>
 
 <p align="center">
